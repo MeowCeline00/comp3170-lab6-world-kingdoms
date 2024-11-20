@@ -1,4 +1,4 @@
-# COMP 3170 lab 6
+# COMP 3170 lab 7
 ## A simple UI for displaying information about world kingdoms.
 ## Developed by
 - Celine Wang
